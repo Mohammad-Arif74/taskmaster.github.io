@@ -1,3 +1,5 @@
 Flask
 Gunicorn
 django-forms-bootstrap
+pymongo==4.6.3
+
